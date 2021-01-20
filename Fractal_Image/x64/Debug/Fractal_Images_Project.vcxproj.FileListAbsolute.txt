@@ -1,0 +1,2 @@
+C:\Users\purdi\source\repos\Fractal_Image\x64\Debug\Fractal_Images_Project.exe
+C:\Users\purdi\source\repos\Fractal_Image\x64\Debug\Fractal_Images_Project.pdb

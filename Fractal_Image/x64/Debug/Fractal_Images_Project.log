@@ -1,0 +1,5 @@
+﻿  Fractal.cpp
+C:\Users\purdi\source\repos\Fractal_Image\Fractal.cpp(68,16): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+  Zoom.cpp
+  Generating Code...
+  Fractal_Images_Project.vcxproj -> C:\Users\purdi\source\repos\Fractal_Image\x64\Debug\Fractal_Images_Project.exe
